@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: I'm currently working in this Github presentation
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elianbarci&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elianbarci&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 
 <!--
 **elianbarci/elianbarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
