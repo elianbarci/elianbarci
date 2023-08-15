@@ -5,6 +5,29 @@ Creo que en el fondo lo que hago es solucionar problemas y creo también que el 
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elianbarci&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 
+        _____
+
+       /ZZZZZ)
+
+       |____/
+
+       |ZZZZ|
+
+       \_____\
+
+       |ZZZZZ|___
+
+     .'(\ @ @)_. 
+
+       /;   " )-
+
+       \; `--'
+
+         \,'/
+
+      ___|;|___
+
+
 <!--
 **elianbarci/elianbarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
